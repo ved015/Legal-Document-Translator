@@ -3,10 +3,10 @@ import main
 import os
 import base64
 
-cohere_api_key = 'MtCDCkczjhUhZd0Q7yg3qmo0fmjzehGZiRJklCJd'
+cohere_api_key = 'API KEY'
 
 st.set_page_config(layout="wide")
-st.markdown("<h1 style='text-align: center; font-size:70px;'> सहायकAI 📃\n</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; font-size:70px;'> LegalAI 📃\n</h1>", unsafe_allow_html=True)
 st.text("")
 st.text("")
 col1, col2 = st.columns(2)
