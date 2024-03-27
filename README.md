@@ -11,9 +11,11 @@ LegalAI is an AI-driven software tool designed to transform the way legal docume
 
 # Tool Kit
 **Frontend:**
-    *HTML,CSS,JS
+    -HTML,CSS,JS
+
 **Libraries:**
-    *Streamlit
-    *PyMuPDF
+    -Streamlit
+    -PyMuPDF
+    
 **LLM & AI Tools:**
-    *Cohere (c4ai-aya)
+    -Cohere (c4ai-aya)
